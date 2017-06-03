@@ -24,17 +24,21 @@ Las dependencias requeridas son:
 
 # Instalación y ejecución
 
-Se puede instalar el archivo deb disponible en [Descargas](https://launchpad.net/agendie/+download "Descargas desde Launchpad") o compilar y ejecutar sin instalar.
+Se puede instalar un archivo deb o bien ejecutar sin instalar.
+
+Para la instalación, descarga la última versión del paquete deb disponible en [descargas](https://launchpad.net/agendie/+download "Descargas desde Launchpad") y abre el archivo con un instalador de paquetes (por ejemplo, GDebi).
 
 Si se instala el paquete deb, el icono de lanzamiento aparece en el menú de aplicaciones, en la sección Oficina.
 
-Para compilar el código, desde el directorio de agendie, con:
+Para ejecutar sin instalar:
+
+1. Compila el código, desde el directorio de agendie, con:
 
     valac AgenDie.gs AgendaNotebook.gs Dialogo.gs DialogoHelp.gs --pkg gtk+-3.0 --pkg sqlite3 --pkg gee-0.8 --output agendie
     
-Después hay que copiar el directorio de imágenes *agendie* en /usr/share/pixmaps
+2. Después hay que copiar el directorio de imágenes *agendie* en /usr/share/pixmaps
 
-Y se ejecuta con:
+3. Y se ejecuta con:
 
     ./agendie
 
