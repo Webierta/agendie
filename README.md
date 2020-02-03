@@ -1,6 +1,6 @@
 # AgenDie
 
-![AgenDie Logo](http://genie.webierta.skn1.com/_media/wiki/agendie192.png)
+![AgenDie Logo](https://1.bp.blogspot.com/-aA4k2R5oiT8/XjWgMyH4LdI/AAAAAAAABvI/JmjThVPtugAkNqICHe996vWmw3oCFh7IACLcBGAsYHQ/s1600/agendie192.png)
 
 ## AgenDie es una agenda de contactos.
 AgenDie es un directorio para organizar contactos. Como tal, dispone de las funciones básicas de cualquier libreta de direcciones: añadir, eliminar, editar y buscar contactos. Permite trabajar con múltiples agendas. Soporta importar y exportar contactos desde/a un archivo vCard. Elimina duplicados. Contactos con imagen o avatar.
@@ -12,7 +12,7 @@ AgenDie is a directory for organizing contacts. As such, it has the basic functi
 
 AgenDie es una aplicación escrita con **Genie** que utiliza interfaz gráfica Gtk+3.
 
-Se trata de un proyecto en una fase inicial de desarrollo, en el que el autor de [Genie Doc](http://genie.webierta.skn1.com/ "Genie Doc"), una Wiki sobre programación con Genie, pone en práctica algunos de los contenidos allí expuestos, y en particular la interfaz gráfica Gtk, la base de datos SQLite y las listas, entre otros.
+Se trata de un proyecto en una fase inicial de desarrollo, en el que el autor de [Genie Doc](https://geniedoc.blogspot.com/ "Genie Doc"), una Wiki sobre programación con Genie, pone en práctica algunos de los contenidos allí expuestos, y en particular la interfaz gráfica Gtk, la base de datos SQLite y las listas, entre otros.
 
 El proyecto también está publicado en [Launchpad](https://launchpad.net/agendie "Agendie en Launchpad"), y desde allí se puede obtener el código, seguir los progresos de la aplicación y descargar un paquete deb para instalar.
 
